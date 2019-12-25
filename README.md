@@ -1,1 +1,1 @@
-How to run functions in parallel or in series without using Bluebird
+How to run functions in parallel / series without using Bluebird
